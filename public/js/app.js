@@ -1,5 +1,3 @@
-console.log('Client side JavaScript loaded successfully!');
-
 const weatherForm = document.querySelector('form');
 
 weatherForm.addEventListener('submit', (event) => {
