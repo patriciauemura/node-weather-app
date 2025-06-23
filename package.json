@@ -6,8 +6,8 @@
   "scripts": {
     "star": "node src/app.js"
     "dev": "nodemon src/app.js -e js,hbs"
-    // npm uninstall -g nodemon
-    // npm install nodemon --save-dev
+    /* npm uninstall -g nodemon
+     npm install nodemon --save-dev */
   },
   "keywords": [],
   "author": "",
@@ -19,7 +19,7 @@
     "nodemon": "^3.1.10",
     "postman-request": "^2.88.1-postman.42"
   },
-  // "devDependencies": {
+  /* "devDependencies": {
   //  "nodemon": "x.x.x"
-  // }
+   } */
 }
